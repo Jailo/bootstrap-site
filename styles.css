@@ -1,0 +1,36 @@
+body{
+	margin-bottom:90px;
+
+}
+
+.jumbotron{
+	background:url("https://static.pexels.com/photos/19068/mirror-light-black-glass-medium.jpg");
+	background-repeat:no-repeat;
+	/**background-position:0% 30%;**/
+	background-size:100% 100%;
+	color:white;
+
+}
+
+/** .btn{
+	background-color:;
+	border:;
+} **/
+.panel-body{
+	padding-top:1px;
+}
+
+.featuredImg{
+	margin-bottom:20px;
+}
+
+.page-header{
+	margin-top:5px;
+}
+
+.list-group-item.active,
+.list-group-item.active:hover,
+.list-group-item.active:focus{
+	background-color: #F2ACB7;
+	border: white;
+}
